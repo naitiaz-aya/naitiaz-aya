@@ -4,4 +4,6 @@
 *💻 I'm a Software Engineer at Lexus Ingenierie </br>
 *🌱 I’m currently learning JAVA Language</br>
 *📫 How to reach me **Ayanaitiaz1@gmail.com**</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naitiaz-aya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naitiaz-aya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FIKRILaila&show_icons=true&locale=en)</br>
