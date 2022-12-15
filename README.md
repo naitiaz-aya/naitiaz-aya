@@ -3,4 +3,4 @@
 ![Profile Views](https://gpvc.arturio.dev/naitiaz-aya)</br>
 *💻 I'm a Software Engineer at lexus Ingenierie </br>
 *🌱 I’m currently learning JAVA Language</br>
-*📫 How to reach me **Ayaniatiaz1@gmail.com**</br>
+*📫 How to reach me **Ayanaitiaz1@gmail.com**</br>
