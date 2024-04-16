@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m NAITIAZ AYA</br>
 ![Aya](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)</br>
 *💻 I'm a Software Engineer @ Unreal Engine Fortnite </br>
-*🌱 I’m currently learning JAVA Language</br>
+*🌱 I’m currently learning Verse Programming Language</br>
 *📫 How to reach me **ayanaitiaz1@gmail.com**</br>
 </br>
 
